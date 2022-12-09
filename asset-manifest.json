@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://quocla1506.github.io/csb-3hclpn/static/css/main.a617e044.chunk.css",
+    "main.js": "https://quocla1506.github.io/csb-3hclpn/static/js/main.628a34f1.chunk.js",
+    "main.js.map": "https://quocla1506.github.io/csb-3hclpn/static/js/main.628a34f1.chunk.js.map",
+    "runtime-main.js": "https://quocla1506.github.io/csb-3hclpn/static/js/runtime-main.80c7424a.js",
+    "runtime-main.js.map": "https://quocla1506.github.io/csb-3hclpn/static/js/runtime-main.80c7424a.js.map",
+    "static/js/2.642f84e5.chunk.js": "https://quocla1506.github.io/csb-3hclpn/static/js/2.642f84e5.chunk.js",
+    "static/js/2.642f84e5.chunk.js.map": "https://quocla1506.github.io/csb-3hclpn/static/js/2.642f84e5.chunk.js.map",
+    "index.html": "https://quocla1506.github.io/csb-3hclpn/index.html",
+    "static/css/main.a617e044.chunk.css.map": "https://quocla1506.github.io/csb-3hclpn/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.642f84e5.chunk.js.LICENSE.txt": "https://quocla1506.github.io/csb-3hclpn/static/js/2.642f84e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80c7424a.js",
+    "static/js/2.642f84e5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.628a34f1.chunk.js"
+  ]
+}
